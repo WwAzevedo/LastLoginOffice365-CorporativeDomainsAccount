@@ -3,7 +3,7 @@ This script on powershell create a csv with computer name and last login date on
 
 Step one - move "PS-SCRIPTS" paste to c:
 
-Step two - execute lastlogondate.ps1 with administrator on powershell
+Step two - run the code in lastlogondate.ps1 as an administrator on PowerShell
 
 A csv sheet gonna be create on your desktop
 
